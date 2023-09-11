@@ -22,3 +22,5 @@ while True:
     print()
     print('\033[32mYou got it correct! Welldone.\033[0m')
     break
+print()
+print(f'You got the answer correct after {x+1} attempts!!')
